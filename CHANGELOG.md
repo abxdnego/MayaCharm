@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [3.2.8] - 2025-02-09
+### Added
+- Pycharm 2022 2023 2024 support
+
 ## [3.2.7] - 2023-09-22
 ### Fixes
 - now properly recognized UTf-8 code points in remotely executed scripts
